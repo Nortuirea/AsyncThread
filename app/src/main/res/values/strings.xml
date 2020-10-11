@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Async Thread</string>
+    <string name="input">Please input a number of integer</string>
+</resources>
